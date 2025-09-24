@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "5e9a16fe-f335-3e81-d870-51326f8c6c5d",
+  "instructors": {
+    "content": [
+      "2d368b93-5be6-f433-24f0-3825db5ad9c7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ae875a15-c6b8-50e0-943c-7519c2aeb693",
+    "website": "15-067-competitive-decision-making-and-negotiation-spring-2011"
+  },
+  "course_title": "Competitive Decision-Making and Negotiation",
+  "course_description": "This course aims to develop negotiation skills by active participation in a variety of negotiation settings, and a series of integrative bargaining cases between two and more than two parties over multiple issues. Ethical dilemmas in negotiation are discussed at various times throughout the course.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.067",
+  "course_image_thumbnail": {
+    "content": "e0a86477-ebd3-93dd-e417-18517428c422",
+    "website": "15-067-competitive-decision-making-and-negotiation-spring-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "458948f6-7f3c-42bb-af64-f5bdf29c9579",
+  "site_short_id": "15.067-spring-2011",
+  "site_url_path": "courses/15-067-competitive-decision-making-and-negotiation-spring-2011",
+  "title": "Course Metadata"
+}
