@@ -4,6 +4,8 @@ description: 'This resource contains information related to class 13. '
 file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/b827db3e7d6c9f902a33425dd7c5933d_MIT15_067S11_Cl13_Vita_RE.pdf
 file_size: 82345
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
